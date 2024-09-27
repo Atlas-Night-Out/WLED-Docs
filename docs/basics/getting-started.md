@@ -52,15 +52,17 @@ Go to the IP `4.3.2.1` in your browser to control your lights! You should also b
 
 To connect your WLED module to your home Wifi:
 
-**1.** Click on the _Config_ (gear) icon to edit your WLED module settings and choose "Wifi Setup".
+**1.** Select To the controls! 
 
-**2.** For most home networks, simply enter your Wifi network's name and network password. You can also change the mDNS address for your WLED module here.
+**2.** Click on the _Config_ (gear) icon to edit your WLED module settings and choose "Wifi Setup".
 
-**3.** Click Save & Connect at the bottom of the page.
+**3.** For most home networks, simply enter your Wifi network's name and network password. You can also change the mDNS address for your WLED module here.
 
-**4.** Reconnect your device to your home's Wifi network.
+**4.** Click Save & Connect at the bottom of the page.
 
-**5.**  Check the device list in your router's user interface for the IP of the WLED device within your local network. For easy automatic discovery, use the WLED app! Have fun with the WLED software!
+**5.** Reconnect your device to your home's Wifi network.
+
+**6.**  Check the device list in your router's user interface for the IP of the WLED device within your local network. For easy automatic discovery, use the WLED app! Have fun with the WLED software!
 
 ### Default GPIO Usage
 
